@@ -10,4 +10,4 @@ This is the github link.
 
 ---
 
-![Alt text](assets/images/screencapture-usethehill-github-io-code-refractor-2021-01-27-17_13_03 (1).png)
+![Alt text](assets/images/screengrab_website.png)
