@@ -1,5 +1,8 @@
 # code_refractor
-This project is to edit existing code to make it more accessible.
+---
+This website is created to offer marketing strategies.  The site is accessible and all of the links work to guide the user to the specified sections. 
+
+---
 
 ---
 ## Deployed Page
