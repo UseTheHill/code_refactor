@@ -24,7 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
     
 }
-
+/* Edited the class to nav to better assist screen reader*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,11 +32,11 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Edited the class to nav to better assist screen reader*/
 header nav ul {
     list-style-type: none;
 }
-
+/* Edited the class to nav to better assist screen reader*/
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -50,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Edited the class to figure to better assist screen reader*/
 .figure {
     height: 800px;
     width: 100%;
